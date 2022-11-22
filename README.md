@@ -41,4 +41,6 @@ int main(void)
 }
 ## 🤔🤔:
 - [John Abass](https://www.github.com/JABS081)
-- Alice Degwarhe
+-[Alice Edegwarhe] (https://github.com/Liceey001/printf.git)
+
+
